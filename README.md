@@ -1,1 +1,2 @@
-"# CarRentalMongoDbNodeJSCLI" 
+- copy or download entire content
+- from your terminal enter "npm install"
